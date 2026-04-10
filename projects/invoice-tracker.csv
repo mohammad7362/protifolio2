@@ -1,0 +1,6 @@
+Invoice No,Client,Issue Date,Due Date,Status,Amount
+INV-1001,Blue Horizon LLC,2026-01-05,2026-01-20,Paid,1250
+INV-1002,Cedar Group,2026-01-12,2026-01-27,Pending,980
+INV-1003,Northline Trading,2026-01-18,2026-02-02,Paid,1750
+INV-1004,Atlas Services,2026-01-22,2026-02-06,Overdue,640
+INV-1005,Green Wave Co.,2026-01-25,2026-02-09,Pending,1120
